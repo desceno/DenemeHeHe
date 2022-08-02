@@ -20,12 +20,12 @@ rconsoleprint("\n")
 
 rconsoleprint("Bypassed Succesfully!")
 rconsoleprint("\n")
-rconsoleprint("Made by npm#4947")
+rconsoleprint("Made by npm#0001")
 rconsoleprint("\n")
 
 game.StarterGui:SetCore("SendNotification", {
     Title = "Cyber-Ware Private AC Disabler ";
-    Text = " Made by npm#4947"; -- what the text says (ofc)
+    Text = " Made by npm#4947";
     Duration = 60;
 })
 
