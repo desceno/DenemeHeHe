@@ -25,7 +25,7 @@ rconsoleprint("\n")
 
 game.StarterGui:SetCore("SendNotification", {
     Title = "Cyber-Ware Private AC Disabler ";
-    Text = " Made by npm#4947";
+    Text = " Made by npm#0001";
     Duration = 60;
 })
 
